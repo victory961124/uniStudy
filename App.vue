@@ -19,4 +19,6 @@
 	@import url("./common/icon.css");
 	@import url("./common/animate.min.css");
 	@import url("./common/free.css");
+	/* 全局样式 */
+	@import url("./common/common.css");
 </style>
